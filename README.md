@@ -17,9 +17,12 @@ Giao diện người dùng:
 Báo cáo: Tạo báo cáo về doanh số bán hàng, hàng tồn kho và hoạt động của khách hàng.
 
 ## Cấu trúc source code
+![Screenshot 2023-11-30 194501](https://github.com/HuyQuangzzz/midterm_java_pav_shop/assets/147068105/356769ea-38e8-4e00-b01d-29ded616adb5)
 
 
 ## ERD
+![Screenshot 2023-11-30 113848](https://github.com/HuyQuangzzz/midterm_java_pav_shop/assets/147068105/a217d008-a0f6-4630-a799-e2c2d9c9412b)
+
 
 
 
@@ -37,6 +40,28 @@ Báo cáo: Tạo báo cáo về doanh số bán hàng, hàng tồn kho và hoạ
 Clone the Repository: git clone https://github.com/HuyQuangzzz/midterm_java_pav_shop.git
 - Cấu hình kết nối cơ sở dữ liệu trong file application.yml, mật khẩu để kết nối hiện tại là "abc123".
 - Mở thư mục cara bằng IntelliJ IDEA và chạy file PavShopApplication.java.
+- tài khoản user:   tk:user  pass: 123456
+- tài khoản admin:  tk:admin123 pass: 123123
+
+## Một số hình ảnh của PAV_SHOP
+
+-Trang chủ pav_shop
+
+-Trang thanh toán 
+
+-Trang sản phẩm 
+
+-Trang quản lí thể loại
+
+-Trang quản lí sản phẩm 
+
+-Trang quản lí nhãn hiệu 
+
+-Trang quản lí đơn hàng 
+
+-Trang quản lí khách hàng
+
+
 ## API Reference
 
 #### Admin

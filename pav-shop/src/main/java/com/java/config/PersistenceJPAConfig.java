@@ -34,9 +34,9 @@ public class PersistenceJPAConfig {
 	public DataSource dataSource() {
 		DriverManagerDataSource dataSource = new DriverManagerDataSource();
 		dataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");
-		dataSource.setUrl("jdbc:mysql://localhost:3306/pav_shop");
+		dataSource.setUrl("jdbc:mysql://localhost:3307/pav_shop");
 		dataSource.setUsername("root");
-		dataSource.setPassword("12345678");
+		dataSource.setPassword("abc123");
 		return dataSource;
 	}
 
