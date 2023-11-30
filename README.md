@@ -46,20 +46,29 @@ Clone the Repository: git clone https://github.com/HuyQuangzzz/midterm_java_pav_
 ## Một số hình ảnh của PAV_SHOP
 
 -Trang chủ pav_shop
+![Screenshot 2023-11-30 195955](https://github.com/HuyQuangzzz/midterm_java_pav_shop/assets/147068105/ad39e1f6-13e6-4124-bb8d-e661733e30b2)
 
 -Trang thanh toán 
+![Screenshot 2023-11-30 200941](https://github.com/HuyQuangzzz/midterm_java_pav_shop/assets/147068105/a63839c2-1ba5-4d41-aa41-969662e5b403)
+![Screenshot 2023-11-30 200954](https://github.com/HuyQuangzzz/midterm_java_pav_shop/assets/147068105/8f793763-45aa-486a-bddc-ade0286950bf)
 
 -Trang sản phẩm 
+![Screenshot 2023-11-30 201203](https://github.com/HuyQuangzzz/midterm_java_pav_shop/assets/147068105/c029743e-1e57-4dda-8779-4f16b6372adb)
 
 -Trang quản lí thể loại
+![Screenshot 2023-11-30 201342](https://github.com/HuyQuangzzz/midterm_java_pav_shop/assets/147068105/c6e8594e-b17b-4fab-9cdf-71690e792284)
 
 -Trang quản lí sản phẩm 
+![Screenshot 2023-11-30 201425](https://github.com/HuyQuangzzz/midterm_java_pav_shop/assets/147068105/1aa84a56-0e14-4848-b9ca-20348790824c)
 
 -Trang quản lí nhãn hiệu 
+![Screenshot 2023-11-30 201401](https://github.com/HuyQuangzzz/midterm_java_pav_shop/assets/147068105/c45f284a-332b-4553-ad87-6fadb6b09a73)
 
 -Trang quản lí đơn hàng 
+![Screenshot 2023-11-30 201456](https://github.com/HuyQuangzzz/midterm_java_pav_shop/assets/147068105/d54671a3-6307-4296-9795-f81ee0c26406)
 
 -Trang quản lí khách hàng
+![Screenshot 2023-11-30 201515](https://github.com/HuyQuangzzz/midterm_java_pav_shop/assets/147068105/b9d7e8e5-214b-461f-b6e2-5ace447e83b2)
 
 
 ## API Reference
